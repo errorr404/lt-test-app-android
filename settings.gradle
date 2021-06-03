@@ -1,0 +1,2 @@
+rootProject.name = "LT testApp"
+include ':app'
